@@ -1,2 +1,2 @@
 # website
-Professional website
+Professional website for Loren Kock
