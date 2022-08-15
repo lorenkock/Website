@@ -11,7 +11,7 @@ links:
   - label: Publications
     url: "https://scholar.google.com/citations?user=eVrdT3gAAAAJ"
 output:
-  postcards::trestles
+  postcards::solana
 ---
 
 ##### My work 
