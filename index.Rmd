@@ -21,7 +21,7 @@ I conduct and support research related to improving global population health and
 ##### Key Skills
 
 - **Data analysis & visualisation**
-  - Statistical modelling and analysis of population-level survey data and randomised controlled trial data
+  - Statistical modelling and analysis of population-level survey data and randomized controlled trial data
   - Data wrangling and statistical programming using R
   - Qualitative data analysis
 - **Communication**
