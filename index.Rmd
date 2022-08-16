@@ -11,7 +11,7 @@ links:
   - label: Publications
     url: "https://scholar.google.com/citations?user=eVrdT3gAAAAJ"
 output:
-  postcards::solana
+  postcards::trestles
 ---
 
 ##### My work 
@@ -24,6 +24,8 @@ I conduct and support research related to improving global population health and
   - Statistical modelling and analysis of population-level survey data and randomized controlled trial data
   - Data wrangling and statistical programming using R
   - Qualitative data analysis
+  <br>
+  <br>
 - **Communication**
   - Oral presentation of research at international academic research conferences and to policy-focused stakeholder groups
   - Lecture to MSc and BSc programmes on epidemiology, behaviour change, addiction and public health
