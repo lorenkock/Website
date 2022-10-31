@@ -16,12 +16,12 @@ output:
 
 ##### My work 
 
-I conduct research in the field of global population health and health inequalities related to smoking, alcohol and other substance use addiction. My research uses a systems lens, recognising that behaviour change is influenced by multiple factors at the individual, community and population level.
+I conduct research in the field of population health and health inequalities related to smoking, alcohol and other substance use addiction. My research uses a systems lens, recognising that behaviour change is influenced by multiple factors at the individual, community and population level.
 
 ##### Key Skills
 
 - **Data analysis & visualisation**
-  - Statistical modelling and analysis of population-level survey data and randomized controlled trial data
+  - Statistical modelling and analysis of population survey data and randomized controlled trial data
   - Data wrangling and statistical programming using R
   - Qualitative data analysis
   <br>
