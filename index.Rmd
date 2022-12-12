@@ -28,7 +28,7 @@ I conduct research in the field of population health and health inequalities rel
   <br>
 - **Communication**
   - Oral presentation of research at international academic research conferences and to policy-focused stakeholders
-  - Lecture to MSc and BSc programmes on epidemiology, behaviour change, addiction and public health
+  - Lecture to MSc and BSc programmes in epidemiology, behaviour change, addiction and public health
   - Report writing and publication of research in academic journals
   - Communication of research to public audiences
 
@@ -48,8 +48,10 @@ I conduct research in the field of population health and health inequalities rel
 **BSc**, Biomedical Science, [University of Edinburgh](https://www.ed.ac.uk/biomedical-sciences) (2015)
 
 ##### Select Publications 
-- [Inequalities in Smoking and Quitting-Related Outcomes Among Adults With and Without Children in the Household 2013–2019: A Population Survey in England](https://academic.oup.com/ntr/article/24/5/690/6387990) *Journal of Nicotine and Tobacco Research*
+- [Association of psychological distress with smoking cessation, duration of abstinence from smoking, and use of non-combustible nicotine-containing products: A cross-sectional population survey in Great Britain](https://www.sciencedirect.com/science/article/pii/S0306460322003367) *Addictive Behaviors*
 <br>
+- [Inequalities in Smoking and Quitting-Related Outcomes Among Adults With and Without Children in the Household 2013–2019: A Population Survey in England](https://academic.oup.com/ntr/article/24/5/690/6387990) *Journal of Nicotine and Tobacco Research*
+<br> 
 - [E-cigarettes to Augment Stop Smoking In-person Support and Treatment With Varenicline (E-ASSIST): A Pragmatic Randomized Controlled Trial](https://academic.oup.com/ntr/advance-article/doi/10.1093/ntr/ntac149/6615413) *Journal of Nicotine and Tobacco Research*
 <br>
 - [Individual-level behavioural smoking cessation interventions tailored for disadvantaged socioeconomic position: a systematic review and meta-regression](https://www.sciencedirect.com/science/article/pii/S2468266719302208) *The Lancet Public Health*
