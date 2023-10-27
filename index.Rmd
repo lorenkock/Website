@@ -16,7 +16,7 @@ output:
 
 ##### My work 
 
-I conduct research in the field of population health and health inequalities related to smoking, alcohol and other substance use addiction. My research uses a systems lens, recognising that behaviour change is influenced by multiple factors at the individual, community and population level.
+I am a researcher in the field of population health. My work uses a systems lens, recognising that behaviour change is influenced by multiple factors at the individual, community and population level.
 
 ##### Key Skills
 
@@ -27,7 +27,7 @@ I conduct research in the field of population health and health inequalities rel
   <br>
   <br>
 - **Communication**
-  - Oral presentation of research at international academic research conferences and to policy-focused stakeholders
+  - Oral presentation of research to academic and policy-focused stakeholders
   - Lecture to MSc and BSc programmes in epidemiology, behaviour change, addiction and public health
   - Report writing and publication of research in academic journals
   - Communication of research to public audiences
@@ -48,7 +48,7 @@ I conduct research in the field of population health and health inequalities rel
 **BSc**, Biomedical Science, [University of Edinburgh](https://www.ed.ac.uk/biomedical-sciences) (2015)
 
 ##### Select Publications 
-- [Prevalence of Psychosocial Issues Among Pregnant Women Who Do and Do Not Use Illicit Substances](https://www.researchsquare.com/article/rs-2845911/v1) (2023) *Psychology of Addictive Behaviors*
+- [Prevalence of Psychosocial Issues Among Pregnant Women Who Do and Do Not Use Illicit Substances](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fadb0000952) (2023) *Psychology of Addictive Behaviors*
 <br>
 - [Contingency management interventions for abstinence from cigarette smoking in pregnancy and postpartum: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0091743523002347) (2023) *Preventive Medicine*
 <br>
