@@ -16,7 +16,7 @@ output:
 
 ##### My work 
 
-I am a researcher in the field of population health. My work uses a systems lens, recognising that behaviour change is influenced by multiple factors at the individual, community and population level. 
+I am a researcher in the applied epidemiology and behavioural science of addiction. My work uses a systems lens, recognising that changing behavior to minimise the harms from addiction involves multiple factors at the individual, community and population level. I conduct policy-oriented research to inform improvements in the health of populations and priority groups in society that experience a disproportionate level of harm from substance use. 
 
 ##### Key Skills
 
@@ -35,6 +35,7 @@ I am a researcher in the field of population health. My work uses a systems lens
 ##### Experience
 
 - Post-doctoral Research Fellow in the [Vermont Centre on Behavior and Health](http://www.med.uvm.edu/behaviorandhealth/home) at the University of Vermont. 2022-Present
+- Consultant with [United Health Futures](https://www.uhf.ch) on WHO funded reports for country governments related Tobacco and Alcohol Policy.
 - Post-doctoral Research Fellow in the [Tobacco and Alcohol Research Group](https://www.ucl.ac.uk/epidemiology-health-care/research/behavioural-science-and-health/research/ucl-tobacco-alcohol-research-group-utarg) at University College London. 2020-2022
 <br>
 - Analyst at [My Clinical Outcomes](https://www.myclinicaloutcomes.com/). 2015-2017
@@ -46,6 +47,11 @@ I am a researcher in the field of population health. My work uses a systems lens
 **MSc**, Global Health, [UCL](https://www.ucl.ac.uk/global-health/global-health-and-development-msc)  (2016)
 <br>
 **BSc**, Biomedical Science, [University of Edinburgh](https://www.ed.ac.uk/biomedical-sciences) (2015)
+
+##### Scientific and Academic Citizenship
+**Society for Research on Nicotine and Tobacco** - Co-chair of Policy and Regulatory Science Network
+**Journal of Nicotine and Tobacco Research** - Associate Editor
+**Royal College of Physicians** - Commissioned author of chapter on vaping in priority socioeconomic groups in upcoming RCP report on vaping.
 
 ##### Select Recent Publications 
 - [Brief interventions for smoking and alcohol associated with the COVID-19 pandemic: a population survey in England](https://link.springer.com/article/10.1186/s12889-023-17559-7) (2024) *BMC Public Health*
